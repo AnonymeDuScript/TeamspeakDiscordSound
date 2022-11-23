@@ -7,7 +7,7 @@ You want to **host** this bot
 
 ('tutorial' => {
 1. Clone or download .zip
-2. Create .env and add TOKEN=**YOUR TOKEN HERE**
+2. At the bottom change **TOKEN HERE** to your bot token
 3. Go to your console and tape **node .**
 
 }
