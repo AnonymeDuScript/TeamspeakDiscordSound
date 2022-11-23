@@ -1,0 +1,21 @@
+{
+  "name": "teamcord",
+  "version": "1.0.0",
+  "description": "Notification for discord like teamspeak",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "discord-player": "^5.3.2",
+    "discord.js": "^14.6.0",
+    "ytdl-core": "^4.11.2"
+  }
+}
