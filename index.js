@@ -57,4 +57,4 @@ client.on('voiceStateUpdate', (oldState, newState) => {
 });
 
 //Login with token to .env
-client.login(process.env.TOKEN);
+client.login(TOKEN HERE);
